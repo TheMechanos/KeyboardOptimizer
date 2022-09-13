@@ -18,7 +18,7 @@ namespace KeyboardOptimizer
         static void Main(string[] args)
         {
 
-            string text = File.ReadAllText(@"C:\OneDrive\STUDIA\ATH\2_sem\MSI --- Metody\inputData.txt").ToUpper();
+            string text = File.ReadAllText(@"C:\OneDrive\STUDIA\ATH\2_sem\MSI --- Metody\KeyboardOptimizer\inputData.txt").ToUpper();
            
             double firstFitness;
 
